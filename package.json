@@ -1,7 +1,7 @@
 {
   "name": "react-native-phone-number",
   "title": "React Native Phone Number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Request Phone Number on Android",
   "main": "index.js",
   "files": [
@@ -13,7 +13,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-native-phone-number",
+    "react",
+    "native",
+    "android",
+    "phone",
+    "number"
   ],
   "author": {
     "name": "Pranav.Chatly",
